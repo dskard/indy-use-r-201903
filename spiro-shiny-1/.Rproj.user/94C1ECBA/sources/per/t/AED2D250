@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552886316293.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1314052633",
+    "id" : "AED2D250",
+    "lastKnownWriteTime" : 1552886387,
+    "last_content_update" : 1552886387,
+    "path" : "~/projects/dskard/indy-use-r-201809/spiro-shiny-1/spirograph_shiny.R",
+    "project_path" : "spirograph_shiny.R",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
